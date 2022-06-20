@@ -11,8 +11,8 @@
  * cd -
  * cp -r public tmp
 
-*4
+* 4
  * cd tmp && rm index_bk.php
 
-*5
+* 5
  * cd /root/server_lesson && mkdir README.md 
